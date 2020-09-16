@@ -4,7 +4,7 @@ This project aims to example how basics captchas can be dangerous for your appli
 
 ![Script running](./resources/example.png)
 
-> **Note**: This script doesn't aim to be precise, just a proof-of-concept that insecure captcha, can be cracked easy. With the correct running of OpenCV filters, this precision will be a lot more accurate.
+> **Note**: This script doesn't aim to be precise, just a proof-of-concept that insecure captcha, can be cracked easily. With the correct tunning of OpenCV filters, this precision will be a lot more accurate.
 
 ## Dependencies
 
