@@ -1,0 +1,2 @@
+tesserocr == 2.5.1
+opencv-python == 4.4.0.42
